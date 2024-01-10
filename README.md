@@ -21,6 +21,7 @@ Here are some ideas to get you started:
    linkedin
   </a>
 </p>
+
 - :house: Based in Carlsbad, California.
 - :computer: Software Engineer.
 - :dart: Currently working on my personal project: Clicker-Games.
