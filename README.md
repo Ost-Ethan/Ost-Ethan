@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ethan.ostrowski@gmail.com
 ---
 
-### <img src="https://media0.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=ecf05e47wx3c4ckat0j4ln2g16oocdahq4jjtmb4sehk78b6&ep=v1_stickers_search&rid=giphy.gif&ct=s"> A little more about me...
+### <img height=50px src="https://media0.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=ecf05e47wx3c4ckat0j4ln2g16oocdahq4jjtmb4sehk78b6&ep=v1_stickers_search&rid=giphy.gif&ct=s"> A little more about me...
 ```
 JavaScript
 const ETHAN = {
