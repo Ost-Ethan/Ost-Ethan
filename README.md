@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left" id="macropower-title"><img src="https://media0.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif?cid=ecf05e472xws1eno1jx838xo057eyxsgi35yzlbdlmw23djy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">Hello 👋 I'm Ethan</h1>
+<h1 align="left" id="macropower-title"><img src="https://media0.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif?cid=ecf05e472xws1eno1jx838xo057eyxsgi35yzlbdlmw23djy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">Hey!  I'm Ethan! </h1>
 <p align="left">
   Here is my
   <a href="https://www.linkedin.com/in/ethan-ostrowski/" align="left">
