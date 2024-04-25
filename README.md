@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - :house: Based in Carlsbad, California.
 - :computer: Software Engineer/ Web Developer!
-- :dart: Currently working on: My personal project: Clicker-Games.
+- :dart: Currently working on: My portfolio Website!
 - 📫 How to reach me: ethan.ostrowski@gmail.com
 ---
 
